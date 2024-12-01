@@ -1,4 +1,4 @@
-#!/home/goodguymike/workspace/github.com/Good-Guy-Mike/asteroids/venv/bin/python3
+#!/home/goodguymike/workspace/github.com/Good-Guy-Mike/asteroids/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
